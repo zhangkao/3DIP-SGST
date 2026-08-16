@@ -44,3 +44,9 @@ Kao ZHANG  <br />
 Perceptual and Generative AI Lab (PGAI Lab) <br />
 Nanjing University of Information Science and Technology, Nanjing, China.  <br />
 Email: kaozhang@nuist.edu.cn  <br />
+
+Tao SONG  <br />
+3D Reconstruction and Image Processing Group (3DIP) <br />
+Perceptual and Generative AI Lab (PGAI Lab) <br />
+Nanjing University of Information Science and Technology, Nanjing, China.  <br />
+Email: taosong@nuist.edu.cn  <br />
